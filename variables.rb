@@ -9,3 +9,7 @@ birth_year = 1999
 
 current_balance = 18800.00
 amount_paid = 1200.00
+
+ 
+deposit_paid = true
+computer_recieved = true
